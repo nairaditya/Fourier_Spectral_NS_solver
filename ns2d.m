@@ -1,6 +1,6 @@
 function ns2d
-%% 2D Fourier spectral Navier-Stokes solver.
-% -- Based on 2D vorticity transpose equation on a bi-periodic domain.
+%% Two-dimensional Fourier spectral Navier-Stokes solver.
+% -- Based on two-dimensional vorticity transpose equation on a bi-periodic domain.
 %
 % Author: Kunihiko Taira, Florida State Univ (www.eng.fsu.edu/~ktaira)
 %
